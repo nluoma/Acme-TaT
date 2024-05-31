@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4e9d1bb883220210fd0f55b6feaad3b9" extends="task" label="Samples" max_length="40" name="x_9293_acme_tat_samples" type="collection"/>
+</database>

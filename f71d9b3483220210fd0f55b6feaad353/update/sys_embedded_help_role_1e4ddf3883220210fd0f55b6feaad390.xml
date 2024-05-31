@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_9293_acme_tat.tat user" name="x_9293_acme_tat.tat user">da4ddf3883220210fd0f55b6feaad38f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 11:06:54</sys_created_on>
+        <sys_id>1e4ddf3883220210fd0f55b6feaad390</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>da4ddf3883220210fd0f55b6feaad38f</sys_name>
+        <sys_package display_value="Acme Tag and Track" source="x_9293_acme_tat">f71d9b3483220210fd0f55b6feaad353</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Acme Tag and Track">f71d9b3483220210fd0f55b6feaad353</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1e4ddf3883220210fd0f55b6feaad390</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 11:06:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
